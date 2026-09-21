@@ -5,7 +5,7 @@
 
 # ThingFlash
 
-**Production-ready AWS IoT infrastructure in three commands.**
+**Production-ready AWS IoT infrastructure in 3 commands**
 
 Building an IoT backend on AWS means wiring together 15+ services — IoT Core, X.509 certificates, IoT policies, Device Shadows, Rules, Lambda, S3, DynamoDB, CloudWatch — and getting the security right on every one of them.
 
